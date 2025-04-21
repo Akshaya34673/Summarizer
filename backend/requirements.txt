@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+pymongo
+sumy
+sentence-transformers
+chromadb
+transformers
+torch
+pdfplumber
+langchain
+fastapi
+uvicorn
+python-dotenv
+faiss-cpu  # or faiss-gpu if you're using a GPU setup
